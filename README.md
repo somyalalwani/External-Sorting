@@ -2,7 +2,7 @@
 
 ##  Languages Used : C++
 
-**PROBLEM : External Sorting**
+**PROBLEM : External Sorting** (K-Way merge sort algorithm to sort a very large array)
 
 **AIM:** External Sorting is a class of algorithms used to deal with massive amounts of data that do not fit in memory.
 The question aims at implementing one such type: K-Way merge sort algorithm to sort a very large array. This algorithm is a perfect example of the use of divide and conquer where with limited resources large problems are tackled by breaking the problem space into small computable subspaces and then operations are done on them.
